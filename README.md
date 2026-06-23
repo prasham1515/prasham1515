@@ -66,49 +66,44 @@ I build systems that combine structured knowledge, retrieval, and language model
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" align="center">
+<a href="https://arxiv.org/abs/2505.21771" target="_blank">
 
-<a href="https://arxiv.org/abs/2505.21771">
-
-<img src="./mmtabreal.png" width="100%" />
+<img src="./mmtabreal.png" alt="MMTabReal" height="220">
 
 ### MMTabReal
 
 Real-World Benchmark for Multimodal Table Understanding
 
 </a>
-
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center">
+<a href="https://arxiv.org/abs/2602.16964" target="_blank">
 
-<a href="https://arxiv.org/abs/2602.16964">
-
-<img src="./sage.png" width="100%" />
+<img src="./sage.png" alt="SAGE" height="220">
 
 ### SAGE
 
 Structure-Aware Graph Expansion for Retrieval of Heterogeneous Data
 
 </a>
-
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center">
+<a href="https://ieeexplore.ieee.org/document/10480783" target="_blank">
 
-<a href="https://ieeexplore.ieee.org/document/10480783">
-
-<img src="./ai.png" width="100%" />
+<img src="./ai.png" alt="Applied Artificial Intelligence" height="220">
 
 ### Applied Artificial Intelligence
 
 Personality and Skill-Based Strategy Framework
 
 </a>
-
 </td>
 
 </tr>
 </table>
+
 
 > Designing systems that help language models reason beyond text.
