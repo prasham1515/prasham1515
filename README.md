@@ -70,7 +70,7 @@ I build systems that combine structured knowledge, retrieval, and language model
 
 <a href="https://arxiv.org/abs/2505.21771">
 
-<img src="./mmtabreal.jpg" width="100%" />
+<img src="./mmtabreal.png" width="100%" />
 
 ### MMTabReal
 
@@ -84,7 +84,7 @@ Real-World Benchmark for Multimodal Table Understanding
 
 <a href="https://arxiv.org/abs/2602.16964">
 
-<img src="./sage.jpg" width="100%" />
+<img src="./sage.png" width="100%" />
 
 ### SAGE
 
@@ -98,7 +98,7 @@ Structure-Aware Graph Expansion for Retrieval of Heterogeneous Data
 
 <a href="https://ieeexplore.ieee.org/document/10480783">
 
-<img src="./ai.jpg" width="100%" />
+<img src="./ai.png" width="100%" />
 
 ### Applied Artificial Intelligence
 
